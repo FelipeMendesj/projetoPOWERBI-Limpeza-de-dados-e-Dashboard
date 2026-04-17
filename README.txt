@@ -28,4 +28,4 @@ Power BI (Power Query + Dashboard)
 
 Dashboard
 
-![Dashboard](printDASHBOARD/dashboard.jpg)
+![Dashboard](printDASHBOARD.jpg)
