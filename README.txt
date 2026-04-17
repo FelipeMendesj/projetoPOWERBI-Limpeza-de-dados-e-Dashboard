@@ -30,4 +30,4 @@ Power BI (Power Query + Dashboard)
 
 # Dashboard
 
-![Dashboard](dash.jpg)
+![Dashboard](dash.JPG)
